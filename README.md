@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+This project is concerned with the basics of shell navigation# alx-system_engineering-devops
