@@ -3,3 +3,4 @@ made task 0 executable
 finished task one
 finished task 3
 finished task 3
+finished task 4
